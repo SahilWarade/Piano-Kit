@@ -326,3 +326,5 @@ function addAnimation(currentKey){
         activeButton.classList.remove('pressed')
     }, 100);
 }
+
+// this is a comment
